@@ -1,0 +1,40 @@
+header {
+    background-color: #a52a2a;
+    text-align: center;
+}
+
+.header {
+    color: white;
+}
+
+.main__img {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+.blockOfCars {
+    text-align: center;
+}
+
+.bleutext {
+    color: blue;
+}
+
+.smallcar {
+    border-style: dashed;
+    border-color: black;
+    border-width: 3px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+.footer {
+    color: white;
+    font-size: 20px;
+}
